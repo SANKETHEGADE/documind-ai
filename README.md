@@ -32,11 +32,11 @@ User Question → Embed Question → Vector Search → Top K Chunks → Gemini A
 -  **PDF Upload** — Drag and drop any PDF, text is extracted automatically
 -  **Smart Chunking** — Document split into overlapping chunks for better context
 -  **Semantic Search** — Cosine similarity search finds the most relevant passages
-- 🤖 **AI Answers** — Gemini AI generates detailed answers with source citations
-- 📚 **Source Citations** — Every answer shows exactly which chunk it came from
-- 🗑️ **Clear & Reset** — Clear documents and start fresh anytime
-- 💬 **Suggested Questions** — Quick-start prompts to get going immediately
-- ⚡ **Real-time** — Instant responses with loading indicators
+-  **AI Answers** — Gemini AI generates detailed answers with source citations
+-  **Source Citations** — Every answer shows exactly which chunk it came from
+-  **Clear & Reset** — Clear documents and start fresh anytime
+-  **Suggested Questions** — Quick-start prompts to get going immediately
+-  **Real-time** — Instant responses with loading indicators
 
 ---
 
