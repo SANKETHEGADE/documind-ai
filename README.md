@@ -7,7 +7,14 @@ Upload any PDF document and ask questions about it in natural language. DocuMind
 
 ## Screenshots
 
-> Add screenshots after running the project
+### Upload Document — Drag & Drop PDF Interface
+![Upload](documind1.png)
+
+### Processing — Real-time Chunking & Embedding
+![Processing](documind2.png)
+
+### Ask Questions — Chat Interface with Suggested Prompts
+![Chat](documind3.png)
 
 ---
 
@@ -29,14 +36,14 @@ User Question → Embed Question → Vector Search → Top K Chunks → Gemini A
 
 ## Features
 
--  **PDF Upload** — Drag and drop any PDF, text is extracted automatically
--  **Smart Chunking** — Document split into overlapping chunks for better context
--  **Semantic Search** — Cosine similarity search finds the most relevant passages
--  **AI Answers** — Gemini AI generates detailed answers with source citations
--  **Source Citations** — Every answer shows exactly which chunk it came from
--  **Clear & Reset** — Clear documents and start fresh anytime
--  **Suggested Questions** — Quick-start prompts to get going immediately
--  **Real-time** — Instant responses with loading indicators
+- 📄 **PDF Upload** — Drag and drop any PDF, text is extracted automatically
+- 🧩 **Smart Chunking** — Document split into overlapping chunks for better context
+- 🔍 **Semantic Search** — Cosine similarity search finds the most relevant passages
+- 🤖 **AI Answers** — Gemini AI generates detailed answers with source citations
+- 📚 **Source Citations** — Every answer shows exactly which chunk it came from
+- 🗑️ **Clear & Reset** — Clear documents and start fresh anytime
+- 💬 **Suggested Questions** — Quick-start prompts to get going immediately
+- ⚡ **Real-time** — Instant responses with loading indicators
 
 ---
 
