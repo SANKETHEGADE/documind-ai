@@ -3,7 +3,7 @@
 
 Upload any PDF document and ask questions about it in natural language. DocuMind AI uses Retrieval-Augmented Generation (RAG) to find the most relevant sections of your document and generate accurate, cited answers using Google Gemini AI.
 
----
+--- 
 
 ## Screenshots
 
